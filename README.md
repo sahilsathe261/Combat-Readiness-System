@@ -1,6 +1,6 @@
 # Combat-Readiness-System
 Combat Readiness System: Created a real-time health monitoring  system using machine learning for predictive analysis and decision making support. 
-# 🛡️ Combat Readiness: Enhancing Mission Success through Real-Time Health Monitoring and Predictive Analysis
+# 🛡️ Combat Readiness: Enhancing Mission Success through Health Monitoring and Predictive Analysis
 
 ## 📌 Project Overview
 This project aims to **Improve Mission Success Rates** by providing **Health Monitoring** and **Predictive Analysis** for personnel in combat or high-risk environments.  
